@@ -1,0 +1,35 @@
+List of Important Ubuntu Commands:
+----------------------------------
+1) pwd- 'present working directory':-This command will allow you to know in which directory you're located.
+  
+2) ls : This command will show you the list of all the files in your current directory.
+
+3)  ~ : This symbol stands for home directory.
+
+4) cd : This command will allow you to change directories.
+For example to navigate to the root directory we use "cd /" or to navigate up one directory we use "cd ..".
+
+5) touch : The touch commmand is used to create a new file in the present working directory.
+Eg: "touch sample" creates a sample.txt file in the present working directory.By default the file will be of the format .txt if nothing is mentioned.
+
+6) cp : The cp command will make a copy of a file. 
+Example: "cp file1 file2" will make an exact copy of "file1" and name it "file2", but the file "file1" will still be there.
+
+7) mv : The mv command will move a file to a different location or will rename a file. 
+Example: "mv file1 file2" will rename the file "file1" to "file2".
+Also the mv command will delete the file "file1" when moved to a different location.
+
+8) rm : This command is to remove or delete a file in your directory.
+Eg:"rm file1" will remove the file "file1" from the directory.
+
+9) rmdir : The rmdir command will delete an empty directory. To delete a directory and all of its contents recursively, use rm -r instead.
+
+10) mkdir : The mkdir command will allow you to create directories. 
+Example: "mkdir music" will create a directory called "music". 
+
+11) chown : This command is used to change ownership of a file. 
+
+12) chmod : This command is used to change permissions on a file. 
+
+13) sudo : Also referred to as superuser do, a sudo command allows you to run other commands with administrative privileges.
+
